@@ -2,12 +2,12 @@
 
 ## Screenshot of Tech Blog
 
-![Tech Blog](./assets/demo-screenshot.jpg)
+![Tech Blog](budget.jpg)
 
 ---
-## Deployed link of the app
+## Deployed link of the app on Heroku
 
-
+https://vast-fjord-89807.herokuapp.com/
 
 ---
 ## My task
@@ -28,7 +28,14 @@ When brought back online:
 
   * Offline entries should be added to tracker.
 
-I was provided a develop folder and created the manifest.json, 
+I was provided a develop folder and created the following files:
+  * manifest.json
+  
+  * service-worke.js
+
+  * db.js 
+
+  * Fixed errors in server.js
 
 
 ---
