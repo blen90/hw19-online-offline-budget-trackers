@@ -1,8 +1,8 @@
 # hw19-online-offline-budget-trackers
 
-## Screenshot of Tech Blog
+## Screenshot of Budget
 
-![Tech Blog](budget.jpg)
+![Budget](budget.jpg)
 
 ---
 ## Deployed link of the app on Heroku
