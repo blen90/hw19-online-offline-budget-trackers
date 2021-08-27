@@ -1,4 +1,4 @@
-# hw19-online-offline-budget-trackers
+# Online Offline Budget Trackers
 
 ## Screenshot of Budget
 
