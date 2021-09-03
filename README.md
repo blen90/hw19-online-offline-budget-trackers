@@ -1,42 +1,58 @@
 # Online Offline Budget Trackers
 
-## Screenshot of Budget
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](https://vast-fjord-89807.herokuapp.com/)
 
-![Budget](budget.jpg)
+# Description
 
----
-## Deployed link of the app on Heroku
+The user is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+
+## Deployed App link 
 
 https://vast-fjord-89807.herokuapp.com/
 
----
-## My task
+## Screenshots of the app
 
-My task for this homework was the following: 
+![Budget](budget.jpg)
 
-Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
+# Table of Contents
 
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+* [Installation](#installation)
+    
+* [Usage](#usage)
 
-Offline Functionality:
+* [Technology](#technology)
 
-  * Enter deposits offline
+* [License](#license)
 
-  * Enter expenses offline
+* [Contributors](#contributors)
 
-When brought back online:
+* [Questions](#questions)
 
-  * Offline entries should be added to tracker.
+# Installation
 
-I was provided a develop folder and created the following files:
-  * manifest.json
-  
-  * service-worke.js
+You can visit the deployed app in the following link: https://vast-fjord-89807.herokuapp.com/
 
-  * db.js 
+# Usage
 
-  * Fixed errors in server.js
+The user is able to add expenses and deposits to their budget with or without a connection.
 
+# Technology
 
----
-### Created by Blenda Orellana
+* MongoDB
+* MongoDB Atlas
+* Express
+* Mongoose
+
+# License 
+
+This project is governed by: MIT License
+
+# Contributors
+
+Blenda Orellana
+
+# Questions
+
+If you have any questions about the repo or the app please feel free to contact me
+ * Email: blen.or90@gmail.com
+ * Github: https://github.com/blen90
